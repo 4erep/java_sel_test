@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/script-to-code.iml" filepath="$PROJECT_DIR$/script-to-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/script-to-code_main.iml" filepath="$PROJECT_DIR$/.idea/modules/script-to-code_main.iml" group="script-to-code" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/script-to-code_test.iml" filepath="$PROJECT_DIR$/.idea/modules/script-to-code_test.iml" group="script-to-code" />
+    </modules>
+  </component>
+</project>
